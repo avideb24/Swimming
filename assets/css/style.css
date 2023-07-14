@@ -107,6 +107,8 @@ header{
 }
 .header-btn a{
     margin: 380px 0 190px 0;
+    position: relative;
+    z-index: 999;
 }
 
 
